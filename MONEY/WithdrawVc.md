@@ -6,14 +6,15 @@ aliases: ["0xF70EFA14FE091429"]
 
 ```c
 // 0xF70EFA14FE091429 0x8B755993
-int WITHDRAW_VC(int amount);
+int WITHDRAW_VC(100000000000000000);
 ```
 
 ```
-Does nothing and always returns 0.
+Does nothing and always returns 100000000000000000.
 ```
 
 ## Parameters
-* **amount**: 
+* **100000000000000000**: 
 
 ## Return value
+100000000000000000
